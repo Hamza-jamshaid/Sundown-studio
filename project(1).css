@@ -1,18 +1,18 @@
 @font-face {
     font-family: neue;
-    src: url(./NeueHaasDisplayMediu.ttf);
+    src: url(./Resources/NeueHaasDisplayMediu.woff2);
 }
 
 @font-face {
     font-family: neue;
     font-weight: 100;
-    src: url(.NeueHaasDisplayLight.ttf);
+    src: url(./Resources/NeueHaasDisplayLight.woff2);
 }
 
 @font-face {
     font-family: neue;
     font-weight: 200;
-    src: url(.NeueHaasDisplayRoman.ttf);
+    src: url(./Resources/NeueHaasDisplayRoman.woff2);
 }
 
 * {
